@@ -1,5 +1,5 @@
 # Multi-input-Multi-output-Deeplearning-Model
-Used Laptop dataset to demonstrate multi-input multi-output Model
+Used Laptop dataset(From Kaggle) to demonstrate multi-input multi-output Model
 
 Here I have demonstrated how to build model with 2 inputs and 2 outputs
 
